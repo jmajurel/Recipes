@@ -1,0 +1,14 @@
+body {
+ background-image: url("https://image.freepik.com/free-photo/texture-of-checkered-tablecloth_1205-247.jpg");
+ background-size: cover;
+ background-repeat: no-repeat;
+ padding-top: 10px;
+}
+.presentation {
+  text-align: center;
+}
+.ingredients {
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 40px;
+  font-weight: bold;
+}
